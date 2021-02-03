@@ -2,4 +2,4 @@
 
 Project archived.
 
-New url: [https://github.com/active-auth/active-auth-email-plugin](https://github.com/active-auth/active-auth-email-plugin)
+New url: [https://github.com/active-auth/active-auth-iam-plugin-email](https://github.com/active-auth/active-auth-iam-plugin-email)
